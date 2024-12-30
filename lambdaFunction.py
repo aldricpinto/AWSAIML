@@ -1,8 +1,3 @@
-"""
-How does AWS Lambda cheer up Amazon Lex? By saying, "Don't worry, I've got your back(end)!"
-
-- NextWork :) 
-"""
 import json
 import random
 import decimal 
